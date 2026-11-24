@@ -1,0 +1,6 @@
+{
+  "name": "Sonora",
+  "description": "Reproductor de música multiformato con listas personalizadas, ecualizador gráfico, letras sincronizadas en tiempo real y sincronización en la nube.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

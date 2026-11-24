@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sonora</string>
+    <string name="nav_library">Biblioteca</string>
+    <string name="nav_playlists">Listas</string>
+    <string name="nav_equalizer">Ecualizador</string>
+    <string name="nav_personalize">Estilo</string>
+    <string name="action_import_audio">Importar audio</string>
+    <string name="action_scan_device">Escanear dispositivo</string>
+    <string name="action_add_stream">Añadir URL</string>
+    <string name="action_create_playlist">Nueva lista</string>
+    <string name="cloud_sync_title">Sincronización y Respaldo</string>
+    <string name="cloud_sync_firebase_notice">La sincronización automática con Firebase está desactivada. Puedes exportar e importar respaldos completos (.json) en Google Drive, Dropbox o tu almacenamiento local.</string>
+</resources>
